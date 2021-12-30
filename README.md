@@ -9,3 +9,9 @@ Prediction using linear model with 2D datasets
 
 
 # In Progress!
+
+
+# To Install
+Clone master git repo into a directory and the perform following steps: 
+1. npm install
+2. npm run dev
